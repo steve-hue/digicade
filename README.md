@@ -29,10 +29,10 @@
 
 ### ->A hyperlink tag that will lead to Signup page
 
-                        "SignUp route is called"
+                        "SignUp" route is called
 
 ### ->onClick() function
-        if onSignUpClick is not empty
+        if onSignUpClick() is not empty
                         function is called which  will return setShowModal("VERIFY EMAIL") 
                 
         else            
