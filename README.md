@@ -5,11 +5,11 @@
 
 
 
-# -> Forgot Passwoord
+# Forgot Passwoord
 
 ### ->Redirect to forgot password page
 
-### useMutate() is called 
+### ->useMutate() is called 
 -->login() is called--> sendLogin() is called -->post request made,returns profileId and token
 
 On success,onLogin(profileId) is called-->  "/" is pushed to history     
