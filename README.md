@@ -5,9 +5,13 @@
 
 
 
+
+
 # Forgot Passwoord
 
 ### ->Redirect to forgot password page
+
+                        "/forgotPassword" route is called
 
 ### ->useMutate() is called 
             login() is called 
@@ -24,6 +28,8 @@
 # SignUp
 
 ### ->A hyperlink tag that will lead to Signup page
+
+                        "SignUp route is called"
 
 ### ->onClick() function
         if onSignUpClick is not empty
