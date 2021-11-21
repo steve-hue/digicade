@@ -13,7 +13,7 @@
             login() is called
                   sendLogin() is called
                         post request made,returns profileId and token
-            On success,onLogin(profileId) is called
+           * On success,onLogin(profileId) is called
                           "/" is pushed to history
             Else
                           set setShowModal("VERIFY EMAIL") and pushes "/" to history
