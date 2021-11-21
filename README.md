@@ -10,7 +10,7 @@ Hyperlink to google login page(createURL() function defined in googleOauth.js)
 Redirect to forgot password page
 
 useMutate() is called 
-        login() is called
+login() is called
                   sendLogin() is called
                         post request made,returns profileId and token
            * On success,onLogin(profileId) is called
