@@ -17,6 +17,7 @@
             login() is called 
                         sendLogin() is called 
                                     post request made,returns profileId and token
+                                    #### ->sdfcasc
 
             On success,onLogin(profileId) is called 
                                     "/" is pushed to history     
