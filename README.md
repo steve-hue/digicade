@@ -1,5 +1,12 @@
 # Login with Google
 
-### ->hyperlink to google login page(createURL() function defined in googleOauth.js)
-ewd
+### ->Hyperlink to google login page(createURL() function defined in googleOauth.js)
+
+
+# Forgot Passwoord
+
+### ->Redirect to forgot password page
+
+### ->useMutate() is called
+
 
